@@ -5,3 +5,4 @@ This disorder, often recognized for its historical association with European roy
 deficiencies in specific clotting factors, leading to prolonged bleeding and impaired blood clot
 formation. This introduction aims to unravel the intricate facets of haemophilia, shedding light on 
 itsfactors, causes, types, assays, and the profound consequences it imposes on those affected.
+
